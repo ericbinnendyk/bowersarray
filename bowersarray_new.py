@@ -210,7 +210,7 @@ print "to finish evaluating an array because it involves exponentiation of"
 print "numbers too large to handle."
 raw_input()
 
-print "I would like to wish a happy 47th birthday to Jonathan Bowers. He has"
-print "revolutionized the fields of polytopes and large numbers, and he is now"
-print "working on searching regiments of dimensions 6 and up. His contributions"
-print "to mathematical fields are immeasurable."
+print "Jonathan Bowers has revolutionized the fields of polytopes and large"
+print "numbers, and he is currently working on finding uniform and scaliform
+print "polytopes of dimensions 4 and up. His contributions to mathematical"
+print "fields are immeasurable."
