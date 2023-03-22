@@ -211,6 +211,6 @@ print "numbers too large to handle."
 raw_input()
 
 print "Jonathan Bowers has revolutionized the fields of polytopes and large"
-print "numbers, and he is currently working on finding uniform and scaliform
+print "numbers, and he is currently working on finding uniform and scaliform"
 print "polytopes of dimensions 4 and up. His contributions to mathematical"
 print "fields are immeasurable."
