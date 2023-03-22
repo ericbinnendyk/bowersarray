@@ -116,7 +116,6 @@ class Bowersarray:
         # set the passengers on previous rows equal to the base
         base = self.at_index([0])
         prime = self.at_index([1])
-        print("what is base: {}".format(base))
         for i in xrange(0, pilotrow):
             self.a[i] = [base] * prime
         # set all passengers on the same row as the pilot equal to the base
